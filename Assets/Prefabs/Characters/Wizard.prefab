@@ -125,11 +125,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1861096789504158}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 8.44}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: 0.20693566, z: 0.9783546, w: 0}
+  m_LocalPosition: {x: -0.5580001, y: -0.10850707, z: 0.89443177}
+  m_LocalScale: {x: 0.20000014, y: 0.20000009, z: 0.20000006}
   m_Children: []
-  m_Father: {fileID: 4623778791326342}
+  m_Father: {fileID: 4557408866994598}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4488519469066336
@@ -139,7 +139,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1773762600307320}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.9401467, y: 1.28, z: -1.4505208}
+  m_LocalPosition: {x: 0.61, y: 1.28, z: -1.4505208}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4768184389137580}
@@ -156,7 +156,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.492, z: 0.43}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 4211484453590164}
   m_Father: {fileID: 4488519469066336}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -169,8 +170,7 @@ Transform:
   m_LocalRotation: {x: -0.9783546, y: -0, z: -0, w: 0.20693566}
   m_LocalPosition: {x: 0.558, y: -0.3, z: 0.219}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
-  m_Children:
-  - {fileID: 4211484453590164}
+  m_Children: []
   m_Father: {fileID: 4768184389137580}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -156.114, y: 0, z: 0}
@@ -677,10 +677,10 @@ MonoBehaviour:
   attackRange: 2
   attackSpeed: 0.5
   attackFOV: 40
-  fireballSystemPrefab: {fileID: 1377272780477938, guid: fe1074ebe2f9f3e4bbf4d3636d0978f9,
+  fireballSystemPrefab: {fileID: 1956863758027266, guid: a55a618865f42a74ea07e46d498aa74a,
     type: 2}
-  fireballSpeed: 10
-  fireballLifetime: 3
+  fireballSpeed: 20
+  fireballLifetime: 1
   fireballSpawnPoint: {fileID: 4211484453590164}
   currentFireballs: []
 --- !u!124 &124073290827118110
