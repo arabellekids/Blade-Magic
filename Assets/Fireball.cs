@@ -19,7 +19,7 @@ public class Fireball : MonoBehaviour {
 
     public void OnDestroy()
     {
-        Instantiate(explosionPrefab, transform);
+        Instantiate(explosionPrefab, transform.position, transform.rotation);
         AudioSource.PlayClipAtPoint(explosionSound, transform.position);
     }
 

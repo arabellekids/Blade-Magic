@@ -9,6 +9,7 @@ public class Wizard : Character {
     public float fireballLifetime = 3;
     public Transform fireballSpawnPoint;
     Coroutine fireballRoutine; 
+    float timer = 0;
     [HideInInspector] public List<GameObject> currentFireballs = new List<GameObject>();
 
     public override void Initialize(string name, int maxHP, Animator anim)
@@ -17,7 +18,7 @@ public class Wizard : Character {
     }
     public override IEnumerator AttackTargetAsync()
     {
-        float timer = attackSpeed;
+        timer = attackSpeed;
         while (true)
         {
             while (timer <= attackSpeed)
@@ -44,7 +45,7 @@ public class Wizard : Character {
     {
         var castSpell = Input.GetMouseButtonDown(0);
         var castEnd = Input.GetMouseButtonUp(0);
-        if (castSpell && fireballRoutine == null && castEnd != true)
+        if (castSpell && fireballRoutine == null)
         {
             fireballRoutine = StartCoroutine(AttackTargetAsync());
         }
