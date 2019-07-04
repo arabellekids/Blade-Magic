@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1105 &110500000
+HumanTemplate:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FighterSkeleton
+  m_BoneTemplate:
+    Chest: character_human_male_humanmale_bone_8
+    Head: character_human_male_humanmale_bone_36
+    Hips: character_human_male_humanmale_bone_1
+    Jaw: character_human_male_humanmale_bone_55
+    Left Index Intermediate: character_human_male_humanmale_bone_87
+    Left Index Proximal: character_human_male_humanmale_bone_62
+    Left Little Intermediate: character_human_male_humanmale_bone_86
+    Left Little Proximal: character_human_male_humanmale_bone_61
+    Left Middle Intermediate: character_human_male_humanmale_bone_85
+    Left Middle Proximal: character_human_male_humanmale_bone_60
+    Left Ring Intermediate: character_human_male_humanmale_bone_89
+    Left Ring Proximal: character_human_male_humanmale_bone_64
+    Left Thumb Intermediate: character_human_male_humanmale_bone_88
+    Left Thumb Proximal: character_human_male_humanmale_bone_63
+    LeftEye: character_human_male_humanmale_bone_46
+    LeftFoot: character_human_male_humanmale_bone_25
+    LeftHand: character_human_male_humanmale_bone_38
+    LeftLowerArm: character_human_male_humanmale_bone_33
+    LeftLowerLeg: character_human_male_humanmale_bone_12
+    LeftShoulder: character_human_male_humanmale_bone_20
+    LeftToes: character_human_male_humanmale_bone_31
+    LeftUpperArm: character_human_male_humanmale_bone_26
+    LeftUpperLeg: character_human_male_humanmale_bone_6
+    Neck: character_human_male_humanmale_bone_22
+    Right Index Intermediate: character_human_male_humanmale_bone_92
+    Right Index Proximal: character_human_male_humanmale_bone_69
+    Right Little Intermediate: character_human_male_humanmale_bone_94
+    Right Little Proximal: character_human_male_humanmale_bone_71
+    Right Middle Intermediate: character_human_male_humanmale_bone_91
+    Right Middle Proximal: character_human_male_humanmale_bone_68
+    Right Ring Intermediate: character_human_male_humanmale_bone_90
+    Right Ring Proximal: character_human_male_humanmale_bone_67
+    Right Thumb Intermediate: character_human_male_humanmale_bone_93
+    Right Thumb Proximal: character_human_male_humanmale_bone_70
+    RightEye: character_human_male_humanmale_bone_49
+    RightFoot: character_human_male_humanmale_bone_24
+    RightHand: character_human_male_humanmale_bone_42
+    RightLowerArm: character_human_male_humanmale_bone_34
+    RightLowerLeg: character_human_male_humanmale_bone_11
+    RightShoulder: character_human_male_humanmale_bone_21
+    RightToes: character_human_male_humanmale_bone_30
+    RightUpperArm: character_human_male_humanmale_bone_27
+    RightUpperLeg: character_human_male_humanmale_bone_5
+    Spine: character_human_male_humanmale_bone_3
+    UpperChest: character_human_male_humanmale_bone_15

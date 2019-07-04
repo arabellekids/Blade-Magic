@@ -1,0 +1,1926 @@
+fileFormatVersion: 2
+guid: de6c62c995ab60743ab7698ca4faac2d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: character_human_male_humanmale_bone_0
+    100002: character_human_male_humanmale_bone_1
+    100004: character_human_male_humanmale_bone_10
+    100006: character_human_male_humanmale_bone_100
+    100008: character_human_male_humanmale_bone_101
+    100010: character_human_male_humanmale_bone_102
+    100012: character_human_male_humanmale_bone_103
+    100014: character_human_male_humanmale_bone_104
+    100016: character_human_male_humanmale_bone_105
+    100018: character_human_male_humanmale_bone_106
+    100020: character_human_male_humanmale_bone_107
+    100022: character_human_male_humanmale_bone_108
+    100024: character_human_male_humanmale_bone_109
+    100026: character_human_male_humanmale_bone_11
+    100028: character_human_male_humanmale_bone_110
+    100030: character_human_male_humanmale_bone_111
+    100032: character_human_male_humanmale_bone_112
+    100034: character_human_male_humanmale_bone_113
+    100036: character_human_male_humanmale_bone_114
+    100038: character_human_male_humanmale_bone_115
+    100040: character_human_male_humanmale_bone_116
+    100042: character_human_male_humanmale_bone_117
+    100044: character_human_male_humanmale_bone_118
+    100046: character_human_male_humanmale_bone_119
+    100048: character_human_male_humanmale_bone_12
+    100050: character_human_male_humanmale_bone_120
+    100052: character_human_male_humanmale_bone_121
+    100054: character_human_male_humanmale_bone_122
+    100056: character_human_male_humanmale_bone_123
+    100058: character_human_male_humanmale_bone_124
+    100060: character_human_male_humanmale_bone_125
+    100062: character_human_male_humanmale_bone_126
+    100064: character_human_male_humanmale_bone_127
+    100066: character_human_male_humanmale_bone_128
+    100068: character_human_male_humanmale_bone_129
+    100070: character_human_male_humanmale_bone_13
+    100072: character_human_male_humanmale_bone_130
+    100074: character_human_male_humanmale_bone_131
+    100076: character_human_male_humanmale_bone_132
+    100078: character_human_male_humanmale_bone_133
+    100080: character_human_male_humanmale_bone_134
+    100082: character_human_male_humanmale_bone_135
+    100084: character_human_male_humanmale_bone_136
+    100086: character_human_male_humanmale_bone_137
+    100088: character_human_male_humanmale_bone_138
+    100090: character_human_male_humanmale_bone_139
+    100092: character_human_male_humanmale_bone_14
+    100094: character_human_male_humanmale_bone_140
+    100096: character_human_male_humanmale_bone_141
+    100098: character_human_male_humanmale_bone_142
+    100100: character_human_male_humanmale_bone_143
+    100102: character_human_male_humanmale_bone_144
+    100104: character_human_male_humanmale_bone_145
+    100106: character_human_male_humanmale_bone_146
+    100108: character_human_male_humanmale_bone_147
+    100110: character_human_male_humanmale_bone_148
+    100112: character_human_male_humanmale_bone_149
+    100114: character_human_male_humanmale_bone_15
+    100116: character_human_male_humanmale_bone_150
+    100118: character_human_male_humanmale_bone_151
+    100120: character_human_male_humanmale_bone_152
+    100122: character_human_male_humanmale_bone_153
+    100124: character_human_male_humanmale_bone_154
+    100126: character_human_male_humanmale_bone_155
+    100128: character_human_male_humanmale_bone_156
+    100130: character_human_male_humanmale_bone_157
+    100132: character_human_male_humanmale_bone_158
+    100134: character_human_male_humanmale_bone_159
+    100136: character_human_male_humanmale_bone_16
+    100138: character_human_male_humanmale_bone_160
+    100140: character_human_male_humanmale_bone_161
+    100142: character_human_male_humanmale_bone_162
+    100144: character_human_male_humanmale_bone_163
+    100146: character_human_male_humanmale_bone_164
+    100148: character_human_male_humanmale_bone_165
+    100150: character_human_male_humanmale_bone_166
+    100152: character_human_male_humanmale_bone_167
+    100154: character_human_male_humanmale_bone_168
+    100156: character_human_male_humanmale_bone_169
+    100158: character_human_male_humanmale_bone_17
+    100160: character_human_male_humanmale_bone_170
+    100162: character_human_male_humanmale_bone_171
+    100164: character_human_male_humanmale_bone_18
+    100166: character_human_male_humanmale_bone_19
+    100168: character_human_male_humanmale_bone_2
+    100170: character_human_male_humanmale_bone_20
+    100172: character_human_male_humanmale_bone_21
+    100174: character_human_male_humanmale_bone_22
+    100176: character_human_male_humanmale_bone_23
+    100178: character_human_male_humanmale_bone_24
+    100180: character_human_male_humanmale_bone_25
+    100182: character_human_male_humanmale_bone_26
+    100184: character_human_male_humanmale_bone_27
+    100186: character_human_male_humanmale_bone_28
+    100188: character_human_male_humanmale_bone_29
+    100190: character_human_male_humanmale_bone_3
+    100192: character_human_male_humanmale_bone_30
+    100194: character_human_male_humanmale_bone_31
+    100196: character_human_male_humanmale_bone_32
+    100198: character_human_male_humanmale_bone_33
+    100200: character_human_male_humanmale_bone_34
+    100202: character_human_male_humanmale_bone_35
+    100204: character_human_male_humanmale_bone_36
+    100206: character_human_male_humanmale_bone_37
+    100208: character_human_male_humanmale_bone_38
+    100210: character_human_male_humanmale_bone_39
+    100212: character_human_male_humanmale_bone_4
+    100214: character_human_male_humanmale_bone_40
+    100216: character_human_male_humanmale_bone_41
+    100218: character_human_male_humanmale_bone_42
+    100220: character_human_male_humanmale_bone_43
+    100222: character_human_male_humanmale_bone_44
+    100224: character_human_male_humanmale_bone_45
+    100226: character_human_male_humanmale_bone_46
+    100228: character_human_male_humanmale_bone_47
+    100230: character_human_male_humanmale_bone_48
+    100232: character_human_male_humanmale_bone_49
+    100234: character_human_male_humanmale_bone_5
+    100236: character_human_male_humanmale_bone_50
+    100238: character_human_male_humanmale_bone_51
+    100240: character_human_male_humanmale_bone_52
+    100242: character_human_male_humanmale_bone_53
+    100244: character_human_male_humanmale_bone_54
+    100246: character_human_male_humanmale_bone_55
+    100248: character_human_male_humanmale_bone_56
+    100250: character_human_male_humanmale_bone_57
+    100252: character_human_male_humanmale_bone_58
+    100254: character_human_male_humanmale_bone_59
+    100256: character_human_male_humanmale_bone_6
+    100258: character_human_male_humanmale_bone_60
+    100260: character_human_male_humanmale_bone_61
+    100262: character_human_male_humanmale_bone_62
+    100264: character_human_male_humanmale_bone_63
+    100266: character_human_male_humanmale_bone_64
+    100268: character_human_male_humanmale_bone_65
+    100270: character_human_male_humanmale_bone_66
+    100272: character_human_male_humanmale_bone_67
+    100274: character_human_male_humanmale_bone_68
+    100276: character_human_male_humanmale_bone_69
+    100278: character_human_male_humanmale_bone_7
+    100280: character_human_male_humanmale_bone_70
+    100282: character_human_male_humanmale_bone_71
+    100284: character_human_male_humanmale_bone_72
+    100286: character_human_male_humanmale_bone_73
+    100288: character_human_male_humanmale_bone_74
+    100290: character_human_male_humanmale_bone_75
+    100292: character_human_male_humanmale_bone_76
+    100294: character_human_male_humanmale_bone_77
+    100296: character_human_male_humanmale_bone_78
+    100298: character_human_male_humanmale_bone_79
+    100300: character_human_male_humanmale_bone_8
+    100302: character_human_male_humanmale_bone_80
+    100304: character_human_male_humanmale_bone_81
+    100306: character_human_male_humanmale_bone_82
+    100308: character_human_male_humanmale_bone_83
+    100310: character_human_male_humanmale_bone_84
+    100312: character_human_male_humanmale_bone_85
+    100314: character_human_male_humanmale_bone_86
+    100316: character_human_male_humanmale_bone_87
+    100318: character_human_male_humanmale_bone_88
+    100320: character_human_male_humanmale_bone_89
+    100322: character_human_male_humanmale_bone_9
+    100324: character_human_male_humanmale_bone_90
+    100326: character_human_male_humanmale_bone_91
+    100328: character_human_male_humanmale_bone_92
+    100330: character_human_male_humanmale_bone_93
+    100332: character_human_male_humanmale_bone_94
+    100334: character_human_male_humanmale_bone_95
+    100336: character_human_male_humanmale_bone_96
+    100338: character_human_male_humanmale_bone_97
+    100340: character_human_male_humanmale_bone_98
+    100342: character_human_male_humanmale_bone_99
+    100344: //RootNode
+    100346: character_human_male_humanmale_rig
+    400000: character_human_male_humanmale_bone_0
+    400002: character_human_male_humanmale_bone_1
+    400004: character_human_male_humanmale_bone_10
+    400006: character_human_male_humanmale_bone_100
+    400008: character_human_male_humanmale_bone_101
+    400010: character_human_male_humanmale_bone_102
+    400012: character_human_male_humanmale_bone_103
+    400014: character_human_male_humanmale_bone_104
+    400016: character_human_male_humanmale_bone_105
+    400018: character_human_male_humanmale_bone_106
+    400020: character_human_male_humanmale_bone_107
+    400022: character_human_male_humanmale_bone_108
+    400024: character_human_male_humanmale_bone_109
+    400026: character_human_male_humanmale_bone_11
+    400028: character_human_male_humanmale_bone_110
+    400030: character_human_male_humanmale_bone_111
+    400032: character_human_male_humanmale_bone_112
+    400034: character_human_male_humanmale_bone_113
+    400036: character_human_male_humanmale_bone_114
+    400038: character_human_male_humanmale_bone_115
+    400040: character_human_male_humanmale_bone_116
+    400042: character_human_male_humanmale_bone_117
+    400044: character_human_male_humanmale_bone_118
+    400046: character_human_male_humanmale_bone_119
+    400048: character_human_male_humanmale_bone_12
+    400050: character_human_male_humanmale_bone_120
+    400052: character_human_male_humanmale_bone_121
+    400054: character_human_male_humanmale_bone_122
+    400056: character_human_male_humanmale_bone_123
+    400058: character_human_male_humanmale_bone_124
+    400060: character_human_male_humanmale_bone_125
+    400062: character_human_male_humanmale_bone_126
+    400064: character_human_male_humanmale_bone_127
+    400066: character_human_male_humanmale_bone_128
+    400068: character_human_male_humanmale_bone_129
+    400070: character_human_male_humanmale_bone_13
+    400072: character_human_male_humanmale_bone_130
+    400074: character_human_male_humanmale_bone_131
+    400076: character_human_male_humanmale_bone_132
+    400078: character_human_male_humanmale_bone_133
+    400080: character_human_male_humanmale_bone_134
+    400082: character_human_male_humanmale_bone_135
+    400084: character_human_male_humanmale_bone_136
+    400086: character_human_male_humanmale_bone_137
+    400088: character_human_male_humanmale_bone_138
+    400090: character_human_male_humanmale_bone_139
+    400092: character_human_male_humanmale_bone_14
+    400094: character_human_male_humanmale_bone_140
+    400096: character_human_male_humanmale_bone_141
+    400098: character_human_male_humanmale_bone_142
+    400100: character_human_male_humanmale_bone_143
+    400102: character_human_male_humanmale_bone_144
+    400104: character_human_male_humanmale_bone_145
+    400106: character_human_male_humanmale_bone_146
+    400108: character_human_male_humanmale_bone_147
+    400110: character_human_male_humanmale_bone_148
+    400112: character_human_male_humanmale_bone_149
+    400114: character_human_male_humanmale_bone_15
+    400116: character_human_male_humanmale_bone_150
+    400118: character_human_male_humanmale_bone_151
+    400120: character_human_male_humanmale_bone_152
+    400122: character_human_male_humanmale_bone_153
+    400124: character_human_male_humanmale_bone_154
+    400126: character_human_male_humanmale_bone_155
+    400128: character_human_male_humanmale_bone_156
+    400130: character_human_male_humanmale_bone_157
+    400132: character_human_male_humanmale_bone_158
+    400134: character_human_male_humanmale_bone_159
+    400136: character_human_male_humanmale_bone_16
+    400138: character_human_male_humanmale_bone_160
+    400140: character_human_male_humanmale_bone_161
+    400142: character_human_male_humanmale_bone_162
+    400144: character_human_male_humanmale_bone_163
+    400146: character_human_male_humanmale_bone_164
+    400148: character_human_male_humanmale_bone_165
+    400150: character_human_male_humanmale_bone_166
+    400152: character_human_male_humanmale_bone_167
+    400154: character_human_male_humanmale_bone_168
+    400156: character_human_male_humanmale_bone_169
+    400158: character_human_male_humanmale_bone_17
+    400160: character_human_male_humanmale_bone_170
+    400162: character_human_male_humanmale_bone_171
+    400164: character_human_male_humanmale_bone_18
+    400166: character_human_male_humanmale_bone_19
+    400168: character_human_male_humanmale_bone_2
+    400170: character_human_male_humanmale_bone_20
+    400172: character_human_male_humanmale_bone_21
+    400174: character_human_male_humanmale_bone_22
+    400176: character_human_male_humanmale_bone_23
+    400178: character_human_male_humanmale_bone_24
+    400180: character_human_male_humanmale_bone_25
+    400182: character_human_male_humanmale_bone_26
+    400184: character_human_male_humanmale_bone_27
+    400186: character_human_male_humanmale_bone_28
+    400188: character_human_male_humanmale_bone_29
+    400190: character_human_male_humanmale_bone_3
+    400192: character_human_male_humanmale_bone_30
+    400194: character_human_male_humanmale_bone_31
+    400196: character_human_male_humanmale_bone_32
+    400198: character_human_male_humanmale_bone_33
+    400200: character_human_male_humanmale_bone_34
+    400202: character_human_male_humanmale_bone_35
+    400204: character_human_male_humanmale_bone_36
+    400206: character_human_male_humanmale_bone_37
+    400208: character_human_male_humanmale_bone_38
+    400210: character_human_male_humanmale_bone_39
+    400212: character_human_male_humanmale_bone_4
+    400214: character_human_male_humanmale_bone_40
+    400216: character_human_male_humanmale_bone_41
+    400218: character_human_male_humanmale_bone_42
+    400220: character_human_male_humanmale_bone_43
+    400222: character_human_male_humanmale_bone_44
+    400224: character_human_male_humanmale_bone_45
+    400226: character_human_male_humanmale_bone_46
+    400228: character_human_male_humanmale_bone_47
+    400230: character_human_male_humanmale_bone_48
+    400232: character_human_male_humanmale_bone_49
+    400234: character_human_male_humanmale_bone_5
+    400236: character_human_male_humanmale_bone_50
+    400238: character_human_male_humanmale_bone_51
+    400240: character_human_male_humanmale_bone_52
+    400242: character_human_male_humanmale_bone_53
+    400244: character_human_male_humanmale_bone_54
+    400246: character_human_male_humanmale_bone_55
+    400248: character_human_male_humanmale_bone_56
+    400250: character_human_male_humanmale_bone_57
+    400252: character_human_male_humanmale_bone_58
+    400254: character_human_male_humanmale_bone_59
+    400256: character_human_male_humanmale_bone_6
+    400258: character_human_male_humanmale_bone_60
+    400260: character_human_male_humanmale_bone_61
+    400262: character_human_male_humanmale_bone_62
+    400264: character_human_male_humanmale_bone_63
+    400266: character_human_male_humanmale_bone_64
+    400268: character_human_male_humanmale_bone_65
+    400270: character_human_male_humanmale_bone_66
+    400272: character_human_male_humanmale_bone_67
+    400274: character_human_male_humanmale_bone_68
+    400276: character_human_male_humanmale_bone_69
+    400278: character_human_male_humanmale_bone_7
+    400280: character_human_male_humanmale_bone_70
+    400282: character_human_male_humanmale_bone_71
+    400284: character_human_male_humanmale_bone_72
+    400286: character_human_male_humanmale_bone_73
+    400288: character_human_male_humanmale_bone_74
+    400290: character_human_male_humanmale_bone_75
+    400292: character_human_male_humanmale_bone_76
+    400294: character_human_male_humanmale_bone_77
+    400296: character_human_male_humanmale_bone_78
+    400298: character_human_male_humanmale_bone_79
+    400300: character_human_male_humanmale_bone_8
+    400302: character_human_male_humanmale_bone_80
+    400304: character_human_male_humanmale_bone_81
+    400306: character_human_male_humanmale_bone_82
+    400308: character_human_male_humanmale_bone_83
+    400310: character_human_male_humanmale_bone_84
+    400312: character_human_male_humanmale_bone_85
+    400314: character_human_male_humanmale_bone_86
+    400316: character_human_male_humanmale_bone_87
+    400318: character_human_male_humanmale_bone_88
+    400320: character_human_male_humanmale_bone_89
+    400322: character_human_male_humanmale_bone_9
+    400324: character_human_male_humanmale_bone_90
+    400326: character_human_male_humanmale_bone_91
+    400328: character_human_male_humanmale_bone_92
+    400330: character_human_male_humanmale_bone_93
+    400332: character_human_male_humanmale_bone_94
+    400334: character_human_male_humanmale_bone_95
+    400336: character_human_male_humanmale_bone_96
+    400338: character_human_male_humanmale_bone_97
+    400340: character_human_male_humanmale_bone_98
+    400342: character_human_male_humanmale_bone_99
+    400344: //RootNode
+    400346: character_human_male_humanmale_rig
+    7400000: Default Take
+    7400002: character_human_male_humanmale_bone_0_CombatAbility2H02__249__C
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
+      copied configuration does not match position in animation file:\n\t'character_human_male_humanmale_bone_12'
+      : position error = 4818.024414 mm\n\t'character_human_male_humanmale_bone_18'
+      : position error = 5810.992676 mm\n\t'character_human_male_humanmale_bone_8'
+      : position error = 305.407135 mm\n\t'character_human_male_humanmale_bone_15'
+      : position error = 305.411224 mm\n\t'character_human_male_humanmale_bone_38'
+      : position error = 2.796422 mm\n\t'character_human_male_humanmale_bone_61' :
+      position error = 454.067230 mm\n\t'character_human_male_humanmale_bone_63' :
+      position error = 201.974411 mm\n\t'character_human_male_humanmale_bone_64' :
+      position error = 129.936707 mm\n\t'character_human_male_humanmale_bone_21' :
+      position error = 8143.314453 mm\n\t'character_human_male_humanmale_bone_27'
+      : position error = 377.379059 mm\n\t'character_human_male_humanmale_bone_34'
+      : position error = 234.061218 mm\n\t'character_human_male_humanmale_bone_42'
+      : position error = 307.266510 mm\n\t'character_human_male_humanmale_bone_67'
+      : position error = 129.312057 mm\n\t'character_human_male_humanmale_bone_70'
+      : position error = 202.016006 mm\n\t'character_human_male_humanmale_bone_71'
+      : position error = 453.306915 mm\n\t'character_human_male_humanmale_bone_46'
+      : position error = 170.024704 mm\n\t'character_human_male_humanmale_bone_49'
+      : position error = 169.958908 mm\n\t'character_human_male_humanmale_bone_55'
+      : position error = 22.475962 mm\nCopied Avatar Rig Configuration mis-match.
+      Inbetween bone rotation in copied configuration does not match rotation in animation
+      file:\n\t'character_human_male_humanmale_bone_28' : rotation error = 15.898890
+      deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Default Take' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'character_human_male_humanmale_bone_2' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_11'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_17'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_30'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_12'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_18'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_3'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_8'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_15'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_33'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_38'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_60'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_60'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_85'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_85'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_61'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_61'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_86'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_86'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_62'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_62'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_87'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_87'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_63'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_63'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_88'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_88'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_64'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_64'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_89'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_89'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_21'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_27'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_34'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_42'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_67'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_67'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_90'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_90'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_68'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_91'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_91'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_69'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_92'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_92'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_70'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_93'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_71'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_71'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_94'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_94'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_28'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_46'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_46'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_49'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_49'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_55'
+      has scale animation that will be discarded.\n\nClip 'character_human_male_humanmale_bone_0_CombatAbility2H02__249__C'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'character_human_male_humanmale_bone_2'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_11'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_17'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_30'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_12'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_18'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_3'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_8'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_15'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_33'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_38'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_60'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_60'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_85'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_85'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_61'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_61'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_86'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_86'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_62'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_62'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_87'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_87'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_63'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_63'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_88'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_88'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_64'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_64'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_89'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_89'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_21'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_27'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_34'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_42'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_67'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_67'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_90'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_90'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_68'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_91'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_91'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_69'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_92'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_92'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_70'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_93'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_71'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_71'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_94'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_94'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_28'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_46'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_46'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_49'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_49'
+      has scale animation that will be discarded.\n\t'character_human_male_humanmale_bone_55'
+      has scale animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: character_human_male_humanmale_bone_0_CombatAbility2H02__249__C
+      takeName: character_human_male_humanmale_bone_0_CombatAbility2H02__249__C
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: character_human_male_humanmale_bone_1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_5
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_11
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_24
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_3
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_8
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_22
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_36
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_20
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_21
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_26
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_27
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_33
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_34
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_38
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_42
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_30
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_46
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_49
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_55
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_63
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_88
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_62
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_87
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_60
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_85
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_64
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_89
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_61
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_86
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_70
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_93
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_69
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_92
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_68
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_91
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_67
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_90
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_71
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_94
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_15
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_6
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_12
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_25
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_human_male_humanmale_bone_31
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Fighter(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale
+      parentName: Fighter(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: item_objectcomponents_head_helm_circlet_a_01_hum
+      parentName: Fighter(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01
+      parentName: Fighter(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01_rig
+      parentName: Fighter(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01_bone_7
+      parentName: item_objectcomponents_weapon_sword_2h_bastard_d_01_rig
+      position: {x: -78.23823, y: 0.29398915, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01_bone_6
+      parentName: item_objectcomponents_weapon_sword_2h_bastard_d_01_rig
+      position: {x: -14.336806, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01_bone_5
+      parentName: item_objectcomponents_weapon_sword_2h_bastard_d_01_rig
+      position: {x: -71.96308, y: 0.11876909, z: -1e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01_bone_4
+      parentName: item_objectcomponents_weapon_sword_2h_bastard_d_01_rig
+      position: {x: -58.353542, y: 0.091075405, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01_bone_3
+      parentName: item_objectcomponents_weapon_sword_2h_bastard_d_01_rig
+      position: {x: -41.68417, y: 0.19101197, z: -2e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01_bone_2
+      parentName: item_objectcomponents_weapon_sword_2h_bastard_d_01_rig
+      position: {x: -26.206636, y: 0.2881899, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01_bone_1
+      parentName: item_objectcomponents_weapon_sword_2h_bastard_d_01_rig
+      position: {x: -11.326745, y: 0.23238005, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: item_objectcomponents_weapon_sword_2h_bastard_d_01_bone_0
+      parentName: item_objectcomponents_weapon_sword_2h_bastard_d_01_rig
+      position: {x: -22.631113, y: 0.015646601, z: -0.038944326}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_rig
+      parentName: Fighter(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: character_human_male_humanmale_bone_0
+      parentName: character_human_male_humanmale_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_1
+      parentName: character_human_male_humanmale_bone_0
+      position: {x: 0, y: 56.240093, z: -0.027752146}
+      rotation: {x: -0.4999999, y: 0.50000006, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_2
+      parentName: character_human_male_humanmale_bone_1
+      position: {x: 0.80856687, y: -0.00000058340765, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_4
+      parentName: character_human_male_humanmale_bone_2
+      position: {x: 0.6074479, y: -6.3330264, z: 0.027752146}
+      rotation: {x: 0, y: 0, z: 3.551745e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_9
+      parentName: character_human_male_humanmale_bone_4
+      position: {x: 9.569179, y: -1.0936722, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_16
+      parentName: character_human_male_humanmale_bone_9
+      position: {x: 9.062194, y: -0.12618364, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_5
+      parentName: character_human_male_humanmale_bone_2
+      position: {x: 3.4216652, y: 0.96768093, z: 6.058419}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_10
+      parentName: character_human_male_humanmale_bone_5
+      position: {x: 21.90111, y: 1.4040784, z: 2.2318344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_11
+      parentName: character_human_male_humanmale_bone_5
+      position: {x: 21.90111, y: 1.4040784, z: 2.2318344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_17
+      parentName: character_human_male_humanmale_bone_11
+      position: {x: 24.495502, y: 4.757931, z: 2.4962072}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_24
+      parentName: character_human_male_humanmale_bone_17
+      position: {x: -0.00000203475, y: 0.00000042378866, z: 0.0000009536743}
+      rotation: {x: 0, y: 0, z: 3.551745e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_30
+      parentName: character_human_male_humanmale_bone_24
+      position: {x: 4.371701, y: -10.892502, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_147
+      parentName: character_human_male_humanmale_bone_24
+      position: {x: -0.0000010810755, y: 0.0000028079746, z: 0.0000009536743}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_148
+      parentName: character_human_male_humanmale_bone_24
+      position: {x: 5.61325, y: -7.4700823, z: -0.0000009536743}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_131
+      parentName: character_human_male_humanmale_bone_11
+      position: {x: 0.0000038049193, y: 0.0000031225134, z: -0.000002861023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_129
+      parentName: character_human_male_humanmale_bone_5
+      position: {x: -0.00001895948, y: 3.0436566, z: 7.703105}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_6
+      parentName: character_human_male_humanmale_bone_2
+      position: {x: 3.4216537, y: 0.96767986, z: -6.0584173}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_12
+      parentName: character_human_male_humanmale_bone_6
+      position: {x: 21.901121, y: 1.4040798, z: -2.2318277}
+      rotation: {x: 0, y: 0, z: 0.000000004753563, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_18
+      parentName: character_human_male_humanmale_bone_12
+      position: {x: 24.495514, y: 4.7579274, z: -2.4962082}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_25
+      parentName: character_human_male_humanmale_bone_18
+      position: {x: -0.00000056023606, y: -0.00000095335804, z: 0.0000009536743}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_31
+      parentName: character_human_male_humanmale_bone_25
+      position: {x: 4.3716955, y: -10.892494, z: -0.000002861023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_146
+      parentName: character_human_male_humanmale_bone_25
+      position: {x: -0.0000010370732, y: 0.0000004771535, z: 0.0000009536743}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_149
+      parentName: character_human_male_humanmale_bone_25
+      position: {x: 5.6132402, y: -7.4694037, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_132
+      parentName: character_human_male_humanmale_bone_12
+      position: {x: 0.000005711037, y: 0.0000057929465, z: 0.0000019073486}
+      rotation: {x: 0, y: -0, z: -0.0000000046566204, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_13
+      parentName: character_human_male_humanmale_bone_6
+      position: {x: 21.901121, y: 1.4040798, z: -2.2318277}
+      rotation: {x: 0, y: 0, z: 0.0000000034157672, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_130
+      parentName: character_human_male_humanmale_bone_6
+      position: {x: 0.00000011400671, y: 3.0436628, z: -7.647602}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_7
+      parentName: character_human_male_humanmale_bone_2
+      position: {x: -1.5239482, y: 8.757504, z: 0.027752146}
+      rotation: {x: 0, y: 0, z: 3.551745e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_14
+      parentName: character_human_male_humanmale_bone_7
+      position: {x: 9.993985, y: 1.7918823, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_19
+      parentName: character_human_male_humanmale_bone_14
+      position: {x: 7.0153584, y: 0.22131458, z: 0}
+      rotation: {x: 0, y: 0, z: 0.0000000074305717, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_116
+      parentName: character_human_male_humanmale_bone_2
+      position: {x: -1.253308, y: -7.4831777, z: 0.027752146}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_3
+      parentName: character_human_male_humanmale_bone_1
+      position: {x: -1.6788294, y: -0.36446205, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_8
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: -5.889488, y: 0.877057, z: 0.027752146}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_15
+      parentName: character_human_male_humanmale_bone_8
+      position: {x: -7.62278, y: 1.1769534, z: 0.00027586977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_20
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -12.319229, y: -0.6771711, z: -2.1728175}
+      rotation: {x: -0.025824998, y: 0.014021503, z: 0.000000029802326, w: 0.99956816}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_26
+      parentName: character_human_male_humanmale_bone_20
+      position: {x: 2.1044466, y: 3.8759997, z: -10.771402}
+      rotation: {x: -0.12014093, y: 0.5462614, z: 0.024877474, w: 0.8285806}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_32
+      parentName: character_human_male_humanmale_bone_26
+      position: {x: 17.120193, y: 4.0280805, z: -5.770274}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_33
+      parentName: character_human_male_humanmale_bone_26
+      position: {x: 17.120193, y: 4.0280805, z: -5.770274}
+      rotation: {x: 0.055219926, y: 0.011114537, z: 0.15738554, w: 0.9859296}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_38
+      parentName: character_human_male_humanmale_bone_33
+      position: {x: 14.072713, y: -2.752692, z: -4.7431383}
+      rotation: {x: -0.019929623, y: -0.084435835, z: -0.010127913, w: 0.99617815}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_60
+      parentName: character_human_male_humanmale_bone_38
+      position: {x: 5.7693176, y: -1.359349, z: -4.578615}
+      rotation: {x: 0.04319828, y: 0.2557213, z: -0.021488968, w: 0.96554583}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_85
+      parentName: character_human_male_humanmale_bone_60
+      position: {x: 4.0847206, y: -0.68748695, z: 0.030145785}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_61
+      parentName: character_human_male_humanmale_bone_38
+      position: {x: 6.585427, y: 2.2470396, z: -4.0913944}
+      rotation: {x: 0.022541462, y: 0.31793332, z: -0.065987855, w: 0.9455453}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_86
+      parentName: character_human_male_humanmale_bone_61
+      position: {x: 2.9847186, y: -0.1362641, z: 0.36306015}
+      rotation: {x: 0, y: 0, z: 3.551745e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_62
+      parentName: character_human_male_humanmale_bone_38
+      position: {x: 5.5407066, y: -3.031075, z: -3.6955564}
+      rotation: {x: 0.06837164, y: 0.2385495, z: 0.015328983, w: 0.9685992}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_87
+      parentName: character_human_male_humanmale_bone_62
+      position: {x: 3.9358327, y: -1.1242915, z: -0.058746196}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_63
+      parentName: character_human_male_humanmale_bone_38
+      position: {x: 1.4763947, y: -2.5142236, z: 0.8276407}
+      rotation: {x: 0.10103305, y: 0.2147439, z: -0.28517213, w: 0.92863035}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_88
+      parentName: character_human_male_humanmale_bone_63
+      position: {x: 4.1866684, y: -1.8434, z: 0.095138706}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_64
+      parentName: character_human_male_humanmale_bone_38
+      position: {x: 6.2433434, y: 0.5149572, z: -4.6609726}
+      rotation: {x: 0.041323222, y: 0.29092118, z: -0.034302164, w: 0.9552386}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_89
+      parentName: character_human_male_humanmale_bone_64
+      position: {x: 3.9300005, y: -0.52319556, z: 0.29708114}
+      rotation: {x: 0, y: 0, z: 0.000000007495952, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_65
+      parentName: character_human_male_humanmale_bone_38
+      position: {x: 50.453064, y: -3.6624913, z: 23.45736}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_164
+      parentName: character_human_male_humanmale_bone_65
+      position: {x: -0.0000021355227, y: 1.73e-13, z: -3.4514e-11}
+      rotation: {x: 1.3089969e-16, y: 0.0000000017294609, z: -2.263859e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_167
+      parentName: character_human_male_humanmale_bone_65
+      position: {x: -0.0000021355227, y: 1.73e-13, z: -3.4514e-11}
+      rotation: {x: 1.3089969e-16, y: 0.0000000017294609, z: -2.263859e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_168
+      parentName: character_human_male_humanmale_bone_65
+      position: {x: -0.0000021355227, y: 1.73e-13, z: -3.4514e-11}
+      rotation: {x: 1.3089969e-16, y: 0.0000000017294609, z: -2.263859e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_171
+      parentName: character_human_male_humanmale_bone_168
+      position: {x: 1.8e-14, y: 2e-15, z: 0}
+      rotation: {x: 0, y: 2.2314034e-14, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_169
+      parentName: character_human_male_humanmale_bone_65
+      position: {x: -0.0000021355227, y: 1.73e-13, z: -3.4514e-11}
+      rotation: {x: 1.3089969e-16, y: 0.0000000017294609, z: -2.263859e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_66
+      parentName: character_human_male_humanmale_bone_38
+      position: {x: 50.453064, y: -3.6624913, z: 23.45736}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_163
+      parentName: character_human_male_humanmale_bone_66
+      position: {x: -0.0000021355227, y: 1.73e-13, z: -3.4514e-11}
+      rotation: {x: 1.3089969e-16, y: 0.0000000017294609, z: -2.263859e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_39
+      parentName: character_human_male_humanmale_bone_33
+      position: {x: 14.072713, y: -2.752692, z: -4.7431383}
+      rotation: {x: -7.330383e-16, y: -0.000000009761511, z: -7.155561e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_40
+      parentName: character_human_male_humanmale_bone_33
+      position: {x: 64.52579, y: -6.4151835, z: 18.714222}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_156
+      parentName: character_human_male_humanmale_bone_40
+      position: {x: -0.0000021355227, y: 1.61e-13, z: 1.95272e-10}
+      rotation: {x: -7.330383e-16, y: -0.000000009762856, z: -7.156547e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_158
+      parentName: character_human_male_humanmale_bone_40
+      position: {x: -0.0000021355227, y: 1.61e-13, z: 1.95272e-10}
+      rotation: {x: -7.330383e-16, y: -0.000000009762856, z: -7.156547e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_151
+      parentName: character_human_male_humanmale_bone_33
+      position: {x: 0.00000084969054, y: 0.000000103189876, z: 0.0000006476107}
+      rotation: {x: -1.1257373e-15, y: -0.00000001490116, z: 3.551745e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_145
+      parentName: character_human_male_humanmale_bone_26
+      position: {x: -4.4967422, y: -1.0754958, z: 2.5203323}
+      rotation: {x: 6.370452e-16, y: 0.000000008457355, z: -5.3877176e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_21
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -12.319229, y: -0.6771711, z: 2.1728213}
+      rotation: {x: 0.025824906, y: -0.014021487, z: 0.00000005960465, w: 0.99956816}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_27
+      parentName: character_human_male_humanmale_bone_21
+      position: {x: 2.1044466, y: 3.8759997, z: 10.771402}
+      rotation: {x: 0.12014164, y: -0.5462622, z: 0.024877446, w: 0.8285799}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_34
+      parentName: character_human_male_humanmale_bone_27
+      position: {x: 17.12014, y: 4.028082, z: 5.7702217}
+      rotation: {x: -0.05522015, y: -0.011112512, z: 0.1573857, w: 0.9859295}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_41
+      parentName: character_human_male_humanmale_bone_34
+      position: {x: 14.072773, y: -2.7526937, z: 4.7431965}
+      rotation: {x: -1.7889624e-15, y: -0.000000023678332, z: -4.2359647e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_42
+      parentName: character_human_male_humanmale_bone_34
+      position: {x: 14.072773, y: -2.7526937, z: 4.7431965}
+      rotation: {x: 0.019928997, y: 0.08443333, z: -0.010127635, w: 0.9961784}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_67
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: 6.243337, y: 0.51495934, z: 4.66097}
+      rotation: {x: -0.041322794, y: -0.29091996, z: -0.034302417, w: 0.95523894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_90
+      parentName: character_human_male_humanmale_bone_67
+      position: {x: 3.9299977, y: -0.52319413, z: -0.29708162}
+      rotation: {x: 2.2602011e-15, y: 0.00000002998384, z: 3.551745e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_68
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: 5.769315, y: -1.3593473, z: 4.578605}
+      rotation: {x: -0.043197755, y: -0.25571904, z: -0.021488925, w: 0.9655465}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_91
+      parentName: character_human_male_humanmale_bone_68
+      position: {x: 4.0847178, y: -0.6874854, z: -0.030132923}
+      rotation: {x: 2.028666e-15, y: 0.000000029678018, z: -0.0000000071946715, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_69
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: 5.540696, y: -3.0310738, z: 3.6955543}
+      rotation: {x: -0.06837147, y: -0.23854908, z: 0.015329091, w: 0.9685994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_92
+      parentName: character_human_male_humanmale_bone_69
+      position: {x: 3.9358323, y: -1.1242906, z: 0.058752872}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_70
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: 1.4763879, y: -2.5142217, z: -0.8276371}
+      rotation: {x: -0.10103238, y: -0.21474332, z: -0.2851719, w: 0.92863065}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_93
+      parentName: character_human_male_humanmale_bone_70
+      position: {x: 4.1866646, y: -1.8433968, z: -0.095138304}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_71
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: 6.58542, y: 2.2470417, z: 4.09139}
+      rotation: {x: -0.022540843, y: -0.31793013, z: -0.065987766, w: 0.9455464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_94
+      parentName: character_human_male_humanmale_bone_71
+      position: {x: 2.9847195, y: -0.13626315, z: -0.3630549}
+      rotation: {x: 2.242748e-15, y: 0.000000029705244, z: -6.662138e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_72
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: 50.453064, y: -3.6624913, z: -23.457918}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_165
+      parentName: character_human_male_humanmale_bone_72
+      position: {x: -0.00000023841851, y: 1.8e-14, z: -0.00000037119173}
+      rotation: {x: 1.1868239e-15, y: 0.000000015746808, z: -1.8688689e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_166
+      parentName: character_human_male_humanmale_bone_72
+      position: {x: 33.64283, y: -4.545421, z: 9.88638}
+      rotation: {x: 3.0543263e-15, y: 0.000000040457067, z: -1.2356908e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_170
+      parentName: character_human_male_humanmale_bone_72
+      position: {x: -0.00000023841851, y: 1.8e-14, z: -0.00000037119173}
+      rotation: {x: 1.1868239e-15, y: 0.000000015746808, z: -1.8688689e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_73
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: 50.453064, y: -3.6624913, z: -23.457918}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_162
+      parentName: character_human_male_humanmale_bone_73
+      position: {x: -0.0000021355227, y: 1.61e-13, z: -3.14959e-10}
+      rotation: {x: 1.1868239e-15, y: 0.000000015745625, z: -1.8687285e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_157
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: 5.2375307, y: -2.6776807, z: 1.8587775}
+      rotation: {x: 1.1868239e-15, y: 0.000000015746805, z: -1.8688684e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_159
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: -0.0000027994124, y: -0.000000482434, z: 0.0000034962982}
+      rotation: {x: 1.1257374e-15, y: 0.00000001490116, z: -1.6774793e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_160
+      parentName: character_human_male_humanmale_bone_42
+      position: {x: -0.0000027994124, y: -0.000000482434, z: 0.0000034962982}
+      rotation: {x: 1.1257374e-15, y: 0.00000001490116, z: -1.6774793e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_150
+      parentName: character_human_male_humanmale_bone_34
+      position: {x: -0.000007145062, y: -0.000001327317, z: -0.000011444092}
+      rotation: {x: -1.1257374e-15, y: -0.000000014901206, z: -1.6774845e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_35
+      parentName: character_human_male_humanmale_bone_27
+      position: {x: 17.12014, y: 4.028082, z: 5.7702217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_144
+      parentName: character_human_male_humanmale_bone_27
+      position: {x: -4.4972076, y: -1.074997, z: -2.5204296}
+      rotation: {x: -6.370452e-16, y: -0.000000008457314, z: -5.3876912e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_22
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -14.912674, y: 2.131562, z: 0.000020990294}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_28
+      parentName: character_human_male_humanmale_bone_22
+      position: {x: -3.128456, y: -0.4144955, z: -0.016478306}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_36
+      parentName: character_human_male_humanmale_bone_28
+      position: {x: -2.9081497, y: -0.6772383, z: -0.030893678}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_43
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -2.4656446, y: 2.6223629, z: 4.6587}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_74
+      parentName: character_human_male_humanmale_bone_43
+      position: {x: 5.1571965, y: 1.1460222, z: 0.6158495}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_44
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -2.465614, y: 2.6223595, z: -4.5645547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_75
+      parentName: character_human_male_humanmale_bone_44
+      position: {x: 5.1571813, y: 1.146032, z: -0.61583614}
+      rotation: {x: 4.18879e-16, y: 0.0000000056032423, z: -2.3470805e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_45
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -2.4656143, y: 1.049926, z: -5.495215}
+      rotation: {x: 0, y: 0, z: 3.551745e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_76
+      parentName: character_human_male_humanmale_bone_45
+      position: {x: 4.8292694, y: -0.47346455, z: 0.3249836}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_46
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -1.9818655, y: -7.5394506, z: -1.8049153}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_47
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -3.690254, y: 3.8220115, z: 0.047075123}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_77
+      parentName: character_human_male_humanmale_bone_47
+      position: {x: 0.0000004983936, y: 2.5513163, z: 0}
+      rotation: {x: 0, y: 0, z: 3.551745e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_95
+      parentName: character_human_male_humanmale_bone_77
+      position: {x: 1.9595194, y: 6.2110996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_48
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -2.465614, y: 3.1385088, z: 0.047075123}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_78
+      parentName: character_human_male_humanmale_bone_48
+      position: {x: 7.565743, y: 4.865947, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_49
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -1.9818655, y: -7.5394506, z: 1.8990656}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_50
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: 0.15960698, y: 0.4457379, z: -4.9517198}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_79
+      parentName: character_human_male_humanmale_bone_50
+      position: {x: 6.184562, y: -5.1842127, z: -0.56545687}
+      rotation: {x: 3.0543262e-16, y: 0.0000000040773265, z: -1.2453486e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_96
+      parentName: character_human_male_humanmale_bone_79
+      position: {x: 5.9227595, y: -4.2831144, z: 0.037277523}
+      rotation: {x: -2.7052604e-16, y: -0.0000000035676606, z: -9.651451e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_51
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: 1.030746, y: -7.3308735, z: 0.047075123}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_52
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -2.4656448, y: 1.0499266, z: 5.589367}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_80
+      parentName: character_human_male_humanmale_bone_52
+      position: {x: 4.834923, y: -0.4678284, z: -0.3208599}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_53
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: 0.15964513, y: 0.44573754, z: 5.0458665}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_81
+      parentName: character_human_male_humanmale_bone_53
+      position: {x: 6.184509, y: -5.184193, z: 0.5654645}
+      rotation: {x: -3.0543262e-16, y: -0.000000004077318, z: -1.245346e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_97
+      parentName: character_human_male_humanmale_bone_81
+      position: {x: 5.92279, y: -4.283119, z: -0.037281815}
+      rotation: {x: 2.8797934e-16, y: 0.0000000038224854, z: -1.1007968e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_54
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -4.1085505, y: 3.8220115, z: 0.047075123}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_82
+      parentName: character_human_male_humanmale_bone_54
+      position: {x: -0.119086705, y: 2.734563, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_98
+      parentName: character_human_male_humanmale_bone_82
+      position: {x: 1.0411234, y: 6.487129, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_99
+      parentName: character_human_male_humanmale_bone_98
+      position: {x: 2.6325624, y: 8.344583, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_55
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -0.645035, y: -3.1382844, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_83
+      parentName: character_human_male_humanmale_bone_55
+      position: {x: 2.8556437, y: -4.1925893, z: 0.047075123}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_56
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -1.9068838, y: -7.704452, z: 1.7691994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_57
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -1.9068838, y: -7.7044506, z: -1.72638}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_58
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -1.8978276, y: -5.968886, z: 0.07693804}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_152
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: 0.000000017220756, y: 7.88077e-10, z: 0.047075123}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_153
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: 1.5145487, y: -8.517723, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_161
+      parentName: character_human_male_humanmale_bone_153
+      position: {x: -0.00000062584945, y: 0.00000018446599, z: -0.000000011175871}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_154
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -8.748344, y: -2.3731308, z: 0.047075123}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_155
+      parentName: character_human_male_humanmale_bone_36
+      position: {x: -0.00000071369584, y: -9.681284, z: 0.00000040605664}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_23
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -3.1397011, y: 10.673668, z: -0.00027586977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_29
+      parentName: character_human_male_humanmale_bone_23
+      position: {x: 11.374135, y: 0.99726105, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_37
+      parentName: character_human_male_humanmale_bone_29
+      position: {x: 12.468198, y: 1.3703585, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_59
+      parentName: character_human_male_humanmale_bone_37
+      position: {x: 12.562127, y: 1.8852139, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_84
+      parentName: character_human_male_humanmale_bone_59
+      position: {x: 10.229594, y: 1.6035054, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_133
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -9.367431, y: 10.118125, z: -0.00027586977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_134
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -0.124809824, y: -6.549406, z: -0.00027586977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_135
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -5.9966044, y: 7.663094, z: -0.00027586977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_136
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -20.927633, y: 13.601314, z: 13.1661}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_137
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -20.927794, y: 13.892681, z: -13.166672}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_138
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -1.2408437, y: 15.373231, z: -0.00027586977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_139
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -4.4257727, y: 14.676638, z: -4.9405527}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_140
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -4.4264593, y: 12.565307, z: 4.9402385}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_141
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: 4.1867294, y: 2.3242064, z: -0.00027586977}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_142
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -16.8527, y: 13.37303, z: 7.940726}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_143
+      parentName: character_human_male_humanmale_bone_15
+      position: {x: -0.00000063759285, y: -7.6334424, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_112
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: -1.3902473, y: 2.8657403, z: 10.5116415}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_113
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 3.3482203, y: -4.773161, z: -4.1389136}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_114
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 1.6516187, y: 0.35219356, z: -12.30887}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_115
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 1.2906415, y: 0.26488802, z: 11.993846}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_117
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: -0.00000021635736, y: 0.00000008122288, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_118
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: -0.00000021635736, y: 0.00000008122288, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_119
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 0.000007413037, y: 0.00000008122197, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_120
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 0.6133268, y: 0.000000034917775, z: -1.7704248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_121
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 0.6133268, y: 0.000000034917775, z: -1.7704248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_122
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 0.6133268, y: 0.000000034917775, z: -1.7704248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_123
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 0.6133268, y: 0.000000034917775, z: -1.7704248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_124
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 0.6133268, y: 0.000000034917775, z: -1.7704248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_125
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 0.6133268, y: 0.000000034917775, z: -1.7704248}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_126
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: -0.13012336, y: 0.000000091046786, z: 0.9060151}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_127
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 0.000011227735, y: 0.0000015117334, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_128
+      parentName: character_human_male_humanmale_bone_3
+      position: {x: 0.000011227735, y: 0.0000015117334, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_111
+      parentName: character_human_male_humanmale_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_110
+      parentName: character_human_male_humanmale_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_109
+      parentName: character_human_male_humanmale_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_108
+      parentName: character_human_male_humanmale_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_107
+      parentName: character_human_male_humanmale_rig
+      position: {x: 5.2846694, y: -0.76435477, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_106
+      parentName: character_human_male_humanmale_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_105
+      parentName: character_human_male_humanmale_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_104
+      parentName: character_human_male_humanmale_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_103
+      parentName: character_human_male_humanmale_rig
+      position: {x: -5.564699, y: 69.94694, z: -0.14693473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_102
+      parentName: character_human_male_humanmale_rig
+      position: {x: -4.6895504, y: 107.4586, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_101
+      parentName: character_human_male_humanmale_rig
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_human_male_humanmale_bone_100
+      parentName: character_human_male_humanmale_rig
+      position: {x: 3.8843603, y: 112.210045, z: 0.42544475}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: character_human_male_humanmale_bone_0
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4213d907904dd7b4b9e02199924162d0,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
