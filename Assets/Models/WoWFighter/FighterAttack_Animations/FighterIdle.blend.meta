@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5565fb9bc5eb6a248b392ba411e5d16a
+guid: 42d12a7c460de2245b8cbf67fe9662fb
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -7,357 +7,384 @@ ModelImporter:
     100002: character_human_male_humanmale_bone_1
     100004: character_human_male_humanmale_bone_10
     100006: character_human_male_humanmale_bone_100
-    100008: character_human_male_humanmale_bone_101
-    100010: character_human_male_humanmale_bone_102
-    100012: character_human_male_humanmale_bone_103
-    100014: character_human_male_humanmale_bone_104
-    100016: character_human_male_humanmale_bone_105
-    100018: character_human_male_humanmale_bone_106
-    100020: character_human_male_humanmale_bone_107
-    100022: character_human_male_humanmale_bone_108
-    100024: character_human_male_humanmale_bone_109
-    100026: character_human_male_humanmale_bone_11
-    100028: character_human_male_humanmale_bone_110
-    100030: character_human_male_humanmale_bone_111
-    100032: character_human_male_humanmale_bone_112
-    100034: character_human_male_humanmale_bone_113
-    100036: character_human_male_humanmale_bone_114
-    100038: character_human_male_humanmale_bone_115
-    100040: character_human_male_humanmale_bone_116
-    100042: character_human_male_humanmale_bone_117
-    100044: character_human_male_humanmale_bone_118
-    100046: character_human_male_humanmale_bone_119
-    100048: character_human_male_humanmale_bone_12
-    100050: character_human_male_humanmale_bone_120
-    100052: character_human_male_humanmale_bone_121
-    100054: character_human_male_humanmale_bone_122
-    100056: character_human_male_humanmale_bone_123
-    100058: character_human_male_humanmale_bone_124
-    100060: character_human_male_humanmale_bone_125
-    100062: character_human_male_humanmale_bone_126
-    100064: character_human_male_humanmale_bone_127
-    100066: character_human_male_humanmale_bone_128
-    100068: character_human_male_humanmale_bone_129
-    100070: character_human_male_humanmale_bone_13
-    100072: character_human_male_humanmale_bone_130
-    100074: character_human_male_humanmale_bone_131
-    100076: character_human_male_humanmale_bone_132
-    100078: character_human_male_humanmale_bone_133
-    100080: character_human_male_humanmale_bone_134
-    100082: character_human_male_humanmale_bone_135
-    100084: character_human_male_humanmale_bone_136
-    100086: character_human_male_humanmale_bone_137
-    100088: character_human_male_humanmale_bone_138
-    100090: character_human_male_humanmale_bone_139
-    100092: character_human_male_humanmale_bone_14
-    100094: character_human_male_humanmale_bone_140
-    100096: character_human_male_humanmale_bone_141
-    100098: character_human_male_humanmale_bone_142
-    100100: character_human_male_humanmale_bone_143
-    100102: character_human_male_humanmale_bone_144
-    100104: character_human_male_humanmale_bone_145
-    100106: character_human_male_humanmale_bone_146
-    100108: character_human_male_humanmale_bone_147
-    100110: character_human_male_humanmale_bone_148
-    100112: character_human_male_humanmale_bone_149
-    100114: character_human_male_humanmale_bone_15
-    100116: character_human_male_humanmale_bone_150
-    100118: character_human_male_humanmale_bone_151
-    100120: character_human_male_humanmale_bone_152
-    100122: character_human_male_humanmale_bone_153
-    100124: character_human_male_humanmale_bone_154
-    100126: character_human_male_humanmale_bone_155
-    100128: character_human_male_humanmale_bone_156
-    100130: character_human_male_humanmale_bone_157
-    100132: character_human_male_humanmale_bone_158
-    100134: character_human_male_humanmale_bone_159
-    100136: character_human_male_humanmale_bone_16
-    100138: character_human_male_humanmale_bone_160
-    100140: character_human_male_humanmale_bone_161
-    100142: character_human_male_humanmale_bone_162
-    100144: character_human_male_humanmale_bone_163
-    100146: character_human_male_humanmale_bone_164
-    100148: character_human_male_humanmale_bone_165
-    100150: character_human_male_humanmale_bone_166
-    100152: character_human_male_humanmale_bone_167
-    100154: character_human_male_humanmale_bone_168
-    100156: character_human_male_humanmale_bone_169
-    100158: character_human_male_humanmale_bone_17
-    100160: character_human_male_humanmale_bone_170
-    100162: character_human_male_humanmale_bone_171
-    100164: character_human_male_humanmale_bone_18
-    100166: character_human_male_humanmale_bone_19
-    100168: character_human_male_humanmale_bone_2
-    100170: character_human_male_humanmale_bone_20
-    100172: character_human_male_humanmale_bone_21
-    100174: character_human_male_humanmale_bone_22
-    100176: character_human_male_humanmale_bone_23
-    100178: character_human_male_humanmale_bone_24
-    100180: character_human_male_humanmale_bone_25
-    100182: character_human_male_humanmale_bone_26
-    100184: character_human_male_humanmale_bone_27
-    100186: character_human_male_humanmale_bone_28
-    100188: character_human_male_humanmale_bone_29
-    100190: character_human_male_humanmale_bone_3
-    100192: character_human_male_humanmale_bone_30
-    100194: character_human_male_humanmale_bone_31
-    100196: character_human_male_humanmale_bone_32
-    100198: character_human_male_humanmale_bone_33
-    100200: character_human_male_humanmale_bone_34
-    100202: character_human_male_humanmale_bone_35
-    100204: character_human_male_humanmale_bone_36
-    100206: character_human_male_humanmale_bone_37
-    100208: character_human_male_humanmale_bone_38
-    100210: character_human_male_humanmale_bone_39
-    100212: character_human_male_humanmale_bone_4
-    100214: character_human_male_humanmale_bone_40
-    100216: character_human_male_humanmale_bone_41
-    100218: character_human_male_humanmale_bone_42
-    100220: character_human_male_humanmale_bone_43
-    100222: character_human_male_humanmale_bone_44
-    100224: character_human_male_humanmale_bone_45
-    100226: character_human_male_humanmale_bone_46
-    100228: character_human_male_humanmale_bone_47
-    100230: character_human_male_humanmale_bone_48
-    100232: character_human_male_humanmale_bone_49
-    100234: character_human_male_humanmale_bone_5
-    100236: character_human_male_humanmale_bone_50
-    100238: character_human_male_humanmale_bone_51
-    100240: character_human_male_humanmale_bone_52
-    100242: character_human_male_humanmale_bone_53
-    100244: character_human_male_humanmale_bone_54
-    100246: character_human_male_humanmale_bone_55
-    100248: character_human_male_humanmale_bone_56
-    100250: character_human_male_humanmale_bone_57
-    100252: character_human_male_humanmale_bone_58
-    100254: character_human_male_humanmale_bone_59
-    100256: character_human_male_humanmale_bone_6
-    100258: character_human_male_humanmale_bone_60
-    100260: character_human_male_humanmale_bone_61
-    100262: character_human_male_humanmale_bone_62
-    100264: character_human_male_humanmale_bone_63
-    100266: character_human_male_humanmale_bone_64
-    100268: character_human_male_humanmale_bone_65
-    100270: character_human_male_humanmale_bone_66
-    100272: character_human_male_humanmale_bone_67
-    100274: character_human_male_humanmale_bone_68
-    100276: character_human_male_humanmale_bone_69
-    100278: character_human_male_humanmale_bone_7
-    100280: character_human_male_humanmale_bone_70
-    100282: character_human_male_humanmale_bone_71
-    100284: character_human_male_humanmale_bone_72
-    100286: character_human_male_humanmale_bone_73
-    100288: character_human_male_humanmale_bone_74
-    100290: character_human_male_humanmale_bone_75
-    100292: character_human_male_humanmale_bone_76
-    100294: character_human_male_humanmale_bone_77
-    100296: character_human_male_humanmale_bone_78
-    100298: character_human_male_humanmale_bone_79
-    100300: character_human_male_humanmale_bone_8
-    100302: character_human_male_humanmale_bone_80
-    100304: character_human_male_humanmale_bone_81
-    100306: character_human_male_humanmale_bone_82
-    100308: character_human_male_humanmale_bone_83
-    100310: character_human_male_humanmale_bone_84
-    100312: character_human_male_humanmale_bone_85
-    100314: character_human_male_humanmale_bone_86
-    100316: character_human_male_humanmale_bone_87
-    100318: character_human_male_humanmale_bone_88
-    100320: character_human_male_humanmale_bone_89
-    100322: character_human_male_humanmale_bone_9
-    100324: character_human_male_humanmale_bone_90
-    100326: character_human_male_humanmale_bone_91
-    100328: character_human_male_humanmale_bone_92
-    100330: character_human_male_humanmale_bone_93
-    100332: character_human_male_humanmale_bone_94
-    100334: character_human_male_humanmale_bone_95
-    100336: character_human_male_humanmale_bone_96
-    100338: character_human_male_humanmale_bone_97
-    100340: character_human_male_humanmale_bone_98
-    100342: character_human_male_humanmale_bone_99
-    100344: //RootNode
-    100346: character_human_male_humanmale_rig
+    100008: character_human_male_humanmale_bone_100_001
+    100010: character_human_male_humanmale_bone_101
+    100012: character_human_male_humanmale_bone_101_001
+    100014: character_human_male_humanmale_bone_102
+    100016: character_human_male_humanmale_bone_102_001
+    100018: character_human_male_humanmale_bone_103
+    100020: character_human_male_humanmale_bone_103_001
+    100022: character_human_male_humanmale_bone_104
+    100024: character_human_male_humanmale_bone_104_001
+    100026: character_human_male_humanmale_bone_105
+    100028: character_human_male_humanmale_bone_105_001
+    100030: character_human_male_humanmale_bone_106
+    100032: character_human_male_humanmale_bone_106_001
+    100034: character_human_male_humanmale_bone_107
+    100036: character_human_male_humanmale_bone_107_001
+    100038: character_human_male_humanmale_bone_108
+    100040: character_human_male_humanmale_bone_108_001
+    100042: character_human_male_humanmale_bone_109
+    100044: character_human_male_humanmale_bone_109_001
+    100046: character_human_male_humanmale_bone_11
+    100048: character_human_male_humanmale_bone_110
+    100050: character_human_male_humanmale_bone_110_001
+    100052: character_human_male_humanmale_bone_111
+    100054: character_human_male_humanmale_bone_111_001
+    100056: character_human_male_humanmale_bone_112
+    100058: character_human_male_humanmale_bone_113
+    100060: character_human_male_humanmale_bone_114
+    100062: character_human_male_humanmale_bone_115
+    100064: character_human_male_humanmale_bone_116
+    100066: character_human_male_humanmale_bone_117
+    100068: character_human_male_humanmale_bone_118
+    100070: character_human_male_humanmale_bone_119
+    100072: character_human_male_humanmale_bone_12
+    100074: character_human_male_humanmale_bone_120
+    100076: character_human_male_humanmale_bone_121
+    100078: character_human_male_humanmale_bone_122
+    100080: character_human_male_humanmale_bone_123
+    100082: character_human_male_humanmale_bone_124
+    100084: character_human_male_humanmale_bone_125
+    100086: character_human_male_humanmale_bone_126
+    100088: character_human_male_humanmale_bone_127
+    100090: character_human_male_humanmale_bone_128
+    100092: character_human_male_humanmale_bone_129
+    100094: character_human_male_humanmale_bone_13
+    100096: character_human_male_humanmale_bone_130
+    100098: character_human_male_humanmale_bone_131
+    100100: character_human_male_humanmale_bone_132
+    100102: character_human_male_humanmale_bone_133
+    100104: character_human_male_humanmale_bone_134
+    100106: character_human_male_humanmale_bone_135
+    100108: character_human_male_humanmale_bone_136
+    100110: character_human_male_humanmale_bone_137
+    100112: character_human_male_humanmale_bone_138
+    100114: character_human_male_humanmale_bone_139
+    100116: character_human_male_humanmale_bone_14
+    100118: character_human_male_humanmale_bone_140
+    100120: character_human_male_humanmale_bone_141
+    100122: character_human_male_humanmale_bone_142
+    100124: character_human_male_humanmale_bone_143
+    100126: character_human_male_humanmale_bone_144
+    100128: character_human_male_humanmale_bone_145
+    100130: character_human_male_humanmale_bone_146
+    100132: character_human_male_humanmale_bone_147
+    100134: character_human_male_humanmale_bone_148
+    100136: character_human_male_humanmale_bone_149
+    100138: character_human_male_humanmale_bone_15
+    100140: character_human_male_humanmale_bone_150
+    100142: character_human_male_humanmale_bone_151
+    100144: character_human_male_humanmale_bone_152
+    100146: character_human_male_humanmale_bone_153
+    100148: character_human_male_humanmale_bone_154
+    100150: character_human_male_humanmale_bone_155
+    100152: character_human_male_humanmale_bone_156
+    100154: character_human_male_humanmale_bone_157
+    100156: character_human_male_humanmale_bone_158
+    100158: character_human_male_humanmale_bone_159
+    100160: character_human_male_humanmale_bone_16
+    100162: character_human_male_humanmale_bone_160
+    100164: character_human_male_humanmale_bone_161
+    100166: character_human_male_humanmale_bone_162
+    100168: character_human_male_humanmale_bone_163
+    100170: character_human_male_humanmale_bone_164
+    100172: character_human_male_humanmale_bone_165
+    100174: character_human_male_humanmale_bone_166
+    100176: character_human_male_humanmale_bone_167
+    100178: character_human_male_humanmale_bone_168
+    100180: character_human_male_humanmale_bone_169
+    100182: character_human_male_humanmale_bone_17
+    100184: character_human_male_humanmale_bone_170
+    100186: character_human_male_humanmale_bone_171
+    100188: character_human_male_humanmale_bone_18
+    100190: character_human_male_humanmale_bone_19
+    100192: character_human_male_humanmale_bone_2
+    100194: character_human_male_humanmale_bone_20
+    100196: character_human_male_humanmale_bone_21
+    100198: character_human_male_humanmale_bone_22
+    100200: character_human_male_humanmale_bone_23
+    100202: character_human_male_humanmale_bone_24
+    100204: character_human_male_humanmale_bone_25
+    100206: character_human_male_humanmale_bone_26
+    100208: character_human_male_humanmale_bone_27
+    100210: character_human_male_humanmale_bone_28
+    100212: character_human_male_humanmale_bone_29
+    100214: character_human_male_humanmale_bone_3
+    100216: character_human_male_humanmale_bone_30
+    100218: character_human_male_humanmale_bone_31
+    100220: character_human_male_humanmale_bone_32
+    100222: character_human_male_humanmale_bone_33
+    100224: character_human_male_humanmale_bone_34
+    100226: character_human_male_humanmale_bone_35
+    100228: character_human_male_humanmale_bone_36
+    100230: character_human_male_humanmale_bone_37
+    100232: character_human_male_humanmale_bone_38
+    100234: character_human_male_humanmale_bone_39
+    100236: character_human_male_humanmale_bone_4
+    100238: character_human_male_humanmale_bone_40
+    100240: character_human_male_humanmale_bone_41
+    100242: character_human_male_humanmale_bone_42
+    100244: character_human_male_humanmale_bone_43
+    100246: character_human_male_humanmale_bone_44
+    100248: character_human_male_humanmale_bone_45
+    100250: character_human_male_humanmale_bone_46
+    100252: character_human_male_humanmale_bone_47
+    100254: character_human_male_humanmale_bone_48
+    100256: character_human_male_humanmale_bone_49
+    100258: character_human_male_humanmale_bone_5
+    100260: character_human_male_humanmale_bone_50
+    100262: character_human_male_humanmale_bone_51
+    100264: character_human_male_humanmale_bone_52
+    100266: character_human_male_humanmale_bone_53
+    100268: character_human_male_humanmale_bone_54
+    100270: character_human_male_humanmale_bone_55
+    100272: character_human_male_humanmale_bone_56
+    100274: character_human_male_humanmale_bone_57
+    100276: character_human_male_humanmale_bone_58
+    100278: character_human_male_humanmale_bone_59
+    100280: character_human_male_humanmale_bone_6
+    100282: character_human_male_humanmale_bone_60
+    100284: character_human_male_humanmale_bone_61
+    100286: character_human_male_humanmale_bone_62
+    100288: character_human_male_humanmale_bone_63
+    100290: character_human_male_humanmale_bone_64
+    100292: character_human_male_humanmale_bone_65
+    100294: character_human_male_humanmale_bone_66
+    100296: character_human_male_humanmale_bone_67
+    100298: character_human_male_humanmale_bone_68
+    100300: character_human_male_humanmale_bone_69
+    100302: character_human_male_humanmale_bone_7
+    100304: character_human_male_humanmale_bone_70
+    100306: character_human_male_humanmale_bone_71
+    100308: character_human_male_humanmale_bone_72
+    100310: character_human_male_humanmale_bone_73
+    100312: character_human_male_humanmale_bone_74
+    100314: character_human_male_humanmale_bone_75
+    100316: character_human_male_humanmale_bone_76
+    100318: character_human_male_humanmale_bone_77
+    100320: character_human_male_humanmale_bone_78
+    100322: character_human_male_humanmale_bone_79
+    100324: character_human_male_humanmale_bone_8
+    100326: character_human_male_humanmale_bone_80
+    100328: character_human_male_humanmale_bone_81
+    100330: character_human_male_humanmale_bone_82
+    100332: character_human_male_humanmale_bone_83
+    100334: character_human_male_humanmale_bone_84
+    100336: character_human_male_humanmale_bone_85
+    100338: character_human_male_humanmale_bone_86
+    100340: character_human_male_humanmale_bone_87
+    100342: character_human_male_humanmale_bone_88
+    100344: character_human_male_humanmale_bone_89
+    100346: character_human_male_humanmale_bone_9
+    100348: character_human_male_humanmale_bone_90
+    100350: character_human_male_humanmale_bone_91
+    100352: character_human_male_humanmale_bone_92
+    100354: character_human_male_humanmale_bone_93
+    100356: character_human_male_humanmale_bone_94
+    100358: character_human_male_humanmale_bone_95
+    100360: character_human_male_humanmale_bone_96
+    100362: character_human_male_humanmale_bone_97
+    100364: character_human_male_humanmale_bone_98
+    100366: character_human_male_humanmale_bone_99
+    100368: character_human_male_humanmale_rig
+    100370: character_human_male_humanmale_rig_001
+    100372: //RootNode
     400000: character_human_male_humanmale_bone_0
     400002: character_human_male_humanmale_bone_1
     400004: character_human_male_humanmale_bone_10
     400006: character_human_male_humanmale_bone_100
-    400008: character_human_male_humanmale_bone_101
-    400010: character_human_male_humanmale_bone_102
-    400012: character_human_male_humanmale_bone_103
-    400014: character_human_male_humanmale_bone_104
-    400016: character_human_male_humanmale_bone_105
-    400018: character_human_male_humanmale_bone_106
-    400020: character_human_male_humanmale_bone_107
-    400022: character_human_male_humanmale_bone_108
-    400024: character_human_male_humanmale_bone_109
-    400026: character_human_male_humanmale_bone_11
-    400028: character_human_male_humanmale_bone_110
-    400030: character_human_male_humanmale_bone_111
-    400032: character_human_male_humanmale_bone_112
-    400034: character_human_male_humanmale_bone_113
-    400036: character_human_male_humanmale_bone_114
-    400038: character_human_male_humanmale_bone_115
-    400040: character_human_male_humanmale_bone_116
-    400042: character_human_male_humanmale_bone_117
-    400044: character_human_male_humanmale_bone_118
-    400046: character_human_male_humanmale_bone_119
-    400048: character_human_male_humanmale_bone_12
-    400050: character_human_male_humanmale_bone_120
-    400052: character_human_male_humanmale_bone_121
-    400054: character_human_male_humanmale_bone_122
-    400056: character_human_male_humanmale_bone_123
-    400058: character_human_male_humanmale_bone_124
-    400060: character_human_male_humanmale_bone_125
-    400062: character_human_male_humanmale_bone_126
-    400064: character_human_male_humanmale_bone_127
-    400066: character_human_male_humanmale_bone_128
-    400068: character_human_male_humanmale_bone_129
-    400070: character_human_male_humanmale_bone_13
-    400072: character_human_male_humanmale_bone_130
-    400074: character_human_male_humanmale_bone_131
-    400076: character_human_male_humanmale_bone_132
-    400078: character_human_male_humanmale_bone_133
-    400080: character_human_male_humanmale_bone_134
-    400082: character_human_male_humanmale_bone_135
-    400084: character_human_male_humanmale_bone_136
-    400086: character_human_male_humanmale_bone_137
-    400088: character_human_male_humanmale_bone_138
-    400090: character_human_male_humanmale_bone_139
-    400092: character_human_male_humanmale_bone_14
-    400094: character_human_male_humanmale_bone_140
-    400096: character_human_male_humanmale_bone_141
-    400098: character_human_male_humanmale_bone_142
-    400100: character_human_male_humanmale_bone_143
-    400102: character_human_male_humanmale_bone_144
-    400104: character_human_male_humanmale_bone_145
-    400106: character_human_male_humanmale_bone_146
-    400108: character_human_male_humanmale_bone_147
-    400110: character_human_male_humanmale_bone_148
-    400112: character_human_male_humanmale_bone_149
-    400114: character_human_male_humanmale_bone_15
-    400116: character_human_male_humanmale_bone_150
-    400118: character_human_male_humanmale_bone_151
-    400120: character_human_male_humanmale_bone_152
-    400122: character_human_male_humanmale_bone_153
-    400124: character_human_male_humanmale_bone_154
-    400126: character_human_male_humanmale_bone_155
-    400128: character_human_male_humanmale_bone_156
-    400130: character_human_male_humanmale_bone_157
-    400132: character_human_male_humanmale_bone_158
-    400134: character_human_male_humanmale_bone_159
-    400136: character_human_male_humanmale_bone_16
-    400138: character_human_male_humanmale_bone_160
-    400140: character_human_male_humanmale_bone_161
-    400142: character_human_male_humanmale_bone_162
-    400144: character_human_male_humanmale_bone_163
-    400146: character_human_male_humanmale_bone_164
-    400148: character_human_male_humanmale_bone_165
-    400150: character_human_male_humanmale_bone_166
-    400152: character_human_male_humanmale_bone_167
-    400154: character_human_male_humanmale_bone_168
-    400156: character_human_male_humanmale_bone_169
-    400158: character_human_male_humanmale_bone_17
-    400160: character_human_male_humanmale_bone_170
-    400162: character_human_male_humanmale_bone_171
-    400164: character_human_male_humanmale_bone_18
-    400166: character_human_male_humanmale_bone_19
-    400168: character_human_male_humanmale_bone_2
-    400170: character_human_male_humanmale_bone_20
-    400172: character_human_male_humanmale_bone_21
-    400174: character_human_male_humanmale_bone_22
-    400176: character_human_male_humanmale_bone_23
-    400178: character_human_male_humanmale_bone_24
-    400180: character_human_male_humanmale_bone_25
-    400182: character_human_male_humanmale_bone_26
-    400184: character_human_male_humanmale_bone_27
-    400186: character_human_male_humanmale_bone_28
-    400188: character_human_male_humanmale_bone_29
-    400190: character_human_male_humanmale_bone_3
-    400192: character_human_male_humanmale_bone_30
-    400194: character_human_male_humanmale_bone_31
-    400196: character_human_male_humanmale_bone_32
-    400198: character_human_male_humanmale_bone_33
-    400200: character_human_male_humanmale_bone_34
-    400202: character_human_male_humanmale_bone_35
-    400204: character_human_male_humanmale_bone_36
-    400206: character_human_male_humanmale_bone_37
-    400208: character_human_male_humanmale_bone_38
-    400210: character_human_male_humanmale_bone_39
-    400212: character_human_male_humanmale_bone_4
-    400214: character_human_male_humanmale_bone_40
-    400216: character_human_male_humanmale_bone_41
-    400218: character_human_male_humanmale_bone_42
-    400220: character_human_male_humanmale_bone_43
-    400222: character_human_male_humanmale_bone_44
-    400224: character_human_male_humanmale_bone_45
-    400226: character_human_male_humanmale_bone_46
-    400228: character_human_male_humanmale_bone_47
-    400230: character_human_male_humanmale_bone_48
-    400232: character_human_male_humanmale_bone_49
-    400234: character_human_male_humanmale_bone_5
-    400236: character_human_male_humanmale_bone_50
-    400238: character_human_male_humanmale_bone_51
-    400240: character_human_male_humanmale_bone_52
-    400242: character_human_male_humanmale_bone_53
-    400244: character_human_male_humanmale_bone_54
-    400246: character_human_male_humanmale_bone_55
-    400248: character_human_male_humanmale_bone_56
-    400250: character_human_male_humanmale_bone_57
-    400252: character_human_male_humanmale_bone_58
-    400254: character_human_male_humanmale_bone_59
-    400256: character_human_male_humanmale_bone_6
-    400258: character_human_male_humanmale_bone_60
-    400260: character_human_male_humanmale_bone_61
-    400262: character_human_male_humanmale_bone_62
-    400264: character_human_male_humanmale_bone_63
-    400266: character_human_male_humanmale_bone_64
-    400268: character_human_male_humanmale_bone_65
-    400270: character_human_male_humanmale_bone_66
-    400272: character_human_male_humanmale_bone_67
-    400274: character_human_male_humanmale_bone_68
-    400276: character_human_male_humanmale_bone_69
-    400278: character_human_male_humanmale_bone_7
-    400280: character_human_male_humanmale_bone_70
-    400282: character_human_male_humanmale_bone_71
-    400284: character_human_male_humanmale_bone_72
-    400286: character_human_male_humanmale_bone_73
-    400288: character_human_male_humanmale_bone_74
-    400290: character_human_male_humanmale_bone_75
-    400292: character_human_male_humanmale_bone_76
-    400294: character_human_male_humanmale_bone_77
-    400296: character_human_male_humanmale_bone_78
-    400298: character_human_male_humanmale_bone_79
-    400300: character_human_male_humanmale_bone_8
-    400302: character_human_male_humanmale_bone_80
-    400304: character_human_male_humanmale_bone_81
-    400306: character_human_male_humanmale_bone_82
-    400308: character_human_male_humanmale_bone_83
-    400310: character_human_male_humanmale_bone_84
-    400312: character_human_male_humanmale_bone_85
-    400314: character_human_male_humanmale_bone_86
-    400316: character_human_male_humanmale_bone_87
-    400318: character_human_male_humanmale_bone_88
-    400320: character_human_male_humanmale_bone_89
-    400322: character_human_male_humanmale_bone_9
-    400324: character_human_male_humanmale_bone_90
-    400326: character_human_male_humanmale_bone_91
-    400328: character_human_male_humanmale_bone_92
-    400330: character_human_male_humanmale_bone_93
-    400332: character_human_male_humanmale_bone_94
-    400334: character_human_male_humanmale_bone_95
-    400336: character_human_male_humanmale_bone_96
-    400338: character_human_male_humanmale_bone_97
-    400340: character_human_male_humanmale_bone_98
-    400342: character_human_male_humanmale_bone_99
-    400344: //RootNode
-    400346: character_human_male_humanmale_rig
-    7400000: Die
+    400008: character_human_male_humanmale_bone_100_001
+    400010: character_human_male_humanmale_bone_101
+    400012: character_human_male_humanmale_bone_101_001
+    400014: character_human_male_humanmale_bone_102
+    400016: character_human_male_humanmale_bone_102_001
+    400018: character_human_male_humanmale_bone_103
+    400020: character_human_male_humanmale_bone_103_001
+    400022: character_human_male_humanmale_bone_104
+    400024: character_human_male_humanmale_bone_104_001
+    400026: character_human_male_humanmale_bone_105
+    400028: character_human_male_humanmale_bone_105_001
+    400030: character_human_male_humanmale_bone_106
+    400032: character_human_male_humanmale_bone_106_001
+    400034: character_human_male_humanmale_bone_107
+    400036: character_human_male_humanmale_bone_107_001
+    400038: character_human_male_humanmale_bone_108
+    400040: character_human_male_humanmale_bone_108_001
+    400042: character_human_male_humanmale_bone_109
+    400044: character_human_male_humanmale_bone_109_001
+    400046: character_human_male_humanmale_bone_11
+    400048: character_human_male_humanmale_bone_110
+    400050: character_human_male_humanmale_bone_110_001
+    400052: character_human_male_humanmale_bone_111
+    400054: character_human_male_humanmale_bone_111_001
+    400056: character_human_male_humanmale_bone_112
+    400058: character_human_male_humanmale_bone_113
+    400060: character_human_male_humanmale_bone_114
+    400062: character_human_male_humanmale_bone_115
+    400064: character_human_male_humanmale_bone_116
+    400066: character_human_male_humanmale_bone_117
+    400068: character_human_male_humanmale_bone_118
+    400070: character_human_male_humanmale_bone_119
+    400072: character_human_male_humanmale_bone_12
+    400074: character_human_male_humanmale_bone_120
+    400076: character_human_male_humanmale_bone_121
+    400078: character_human_male_humanmale_bone_122
+    400080: character_human_male_humanmale_bone_123
+    400082: character_human_male_humanmale_bone_124
+    400084: character_human_male_humanmale_bone_125
+    400086: character_human_male_humanmale_bone_126
+    400088: character_human_male_humanmale_bone_127
+    400090: character_human_male_humanmale_bone_128
+    400092: character_human_male_humanmale_bone_129
+    400094: character_human_male_humanmale_bone_13
+    400096: character_human_male_humanmale_bone_130
+    400098: character_human_male_humanmale_bone_131
+    400100: character_human_male_humanmale_bone_132
+    400102: character_human_male_humanmale_bone_133
+    400104: character_human_male_humanmale_bone_134
+    400106: character_human_male_humanmale_bone_135
+    400108: character_human_male_humanmale_bone_136
+    400110: character_human_male_humanmale_bone_137
+    400112: character_human_male_humanmale_bone_138
+    400114: character_human_male_humanmale_bone_139
+    400116: character_human_male_humanmale_bone_14
+    400118: character_human_male_humanmale_bone_140
+    400120: character_human_male_humanmale_bone_141
+    400122: character_human_male_humanmale_bone_142
+    400124: character_human_male_humanmale_bone_143
+    400126: character_human_male_humanmale_bone_144
+    400128: character_human_male_humanmale_bone_145
+    400130: character_human_male_humanmale_bone_146
+    400132: character_human_male_humanmale_bone_147
+    400134: character_human_male_humanmale_bone_148
+    400136: character_human_male_humanmale_bone_149
+    400138: character_human_male_humanmale_bone_15
+    400140: character_human_male_humanmale_bone_150
+    400142: character_human_male_humanmale_bone_151
+    400144: character_human_male_humanmale_bone_152
+    400146: character_human_male_humanmale_bone_153
+    400148: character_human_male_humanmale_bone_154
+    400150: character_human_male_humanmale_bone_155
+    400152: character_human_male_humanmale_bone_156
+    400154: character_human_male_humanmale_bone_157
+    400156: character_human_male_humanmale_bone_158
+    400158: character_human_male_humanmale_bone_159
+    400160: character_human_male_humanmale_bone_16
+    400162: character_human_male_humanmale_bone_160
+    400164: character_human_male_humanmale_bone_161
+    400166: character_human_male_humanmale_bone_162
+    400168: character_human_male_humanmale_bone_163
+    400170: character_human_male_humanmale_bone_164
+    400172: character_human_male_humanmale_bone_165
+    400174: character_human_male_humanmale_bone_166
+    400176: character_human_male_humanmale_bone_167
+    400178: character_human_male_humanmale_bone_168
+    400180: character_human_male_humanmale_bone_169
+    400182: character_human_male_humanmale_bone_17
+    400184: character_human_male_humanmale_bone_170
+    400186: character_human_male_humanmale_bone_171
+    400188: character_human_male_humanmale_bone_18
+    400190: character_human_male_humanmale_bone_19
+    400192: character_human_male_humanmale_bone_2
+    400194: character_human_male_humanmale_bone_20
+    400196: character_human_male_humanmale_bone_21
+    400198: character_human_male_humanmale_bone_22
+    400200: character_human_male_humanmale_bone_23
+    400202: character_human_male_humanmale_bone_24
+    400204: character_human_male_humanmale_bone_25
+    400206: character_human_male_humanmale_bone_26
+    400208: character_human_male_humanmale_bone_27
+    400210: character_human_male_humanmale_bone_28
+    400212: character_human_male_humanmale_bone_29
+    400214: character_human_male_humanmale_bone_3
+    400216: character_human_male_humanmale_bone_30
+    400218: character_human_male_humanmale_bone_31
+    400220: character_human_male_humanmale_bone_32
+    400222: character_human_male_humanmale_bone_33
+    400224: character_human_male_humanmale_bone_34
+    400226: character_human_male_humanmale_bone_35
+    400228: character_human_male_humanmale_bone_36
+    400230: character_human_male_humanmale_bone_37
+    400232: character_human_male_humanmale_bone_38
+    400234: character_human_male_humanmale_bone_39
+    400236: character_human_male_humanmale_bone_4
+    400238: character_human_male_humanmale_bone_40
+    400240: character_human_male_humanmale_bone_41
+    400242: character_human_male_humanmale_bone_42
+    400244: character_human_male_humanmale_bone_43
+    400246: character_human_male_humanmale_bone_44
+    400248: character_human_male_humanmale_bone_45
+    400250: character_human_male_humanmale_bone_46
+    400252: character_human_male_humanmale_bone_47
+    400254: character_human_male_humanmale_bone_48
+    400256: character_human_male_humanmale_bone_49
+    400258: character_human_male_humanmale_bone_5
+    400260: character_human_male_humanmale_bone_50
+    400262: character_human_male_humanmale_bone_51
+    400264: character_human_male_humanmale_bone_52
+    400266: character_human_male_humanmale_bone_53
+    400268: character_human_male_humanmale_bone_54
+    400270: character_human_male_humanmale_bone_55
+    400272: character_human_male_humanmale_bone_56
+    400274: character_human_male_humanmale_bone_57
+    400276: character_human_male_humanmale_bone_58
+    400278: character_human_male_humanmale_bone_59
+    400280: character_human_male_humanmale_bone_6
+    400282: character_human_male_humanmale_bone_60
+    400284: character_human_male_humanmale_bone_61
+    400286: character_human_male_humanmale_bone_62
+    400288: character_human_male_humanmale_bone_63
+    400290: character_human_male_humanmale_bone_64
+    400292: character_human_male_humanmale_bone_65
+    400294: character_human_male_humanmale_bone_66
+    400296: character_human_male_humanmale_bone_67
+    400298: character_human_male_humanmale_bone_68
+    400300: character_human_male_humanmale_bone_69
+    400302: character_human_male_humanmale_bone_7
+    400304: character_human_male_humanmale_bone_70
+    400306: character_human_male_humanmale_bone_71
+    400308: character_human_male_humanmale_bone_72
+    400310: character_human_male_humanmale_bone_73
+    400312: character_human_male_humanmale_bone_74
+    400314: character_human_male_humanmale_bone_75
+    400316: character_human_male_humanmale_bone_76
+    400318: character_human_male_humanmale_bone_77
+    400320: character_human_male_humanmale_bone_78
+    400322: character_human_male_humanmale_bone_79
+    400324: character_human_male_humanmale_bone_8
+    400326: character_human_male_humanmale_bone_80
+    400328: character_human_male_humanmale_bone_81
+    400330: character_human_male_humanmale_bone_82
+    400332: character_human_male_humanmale_bone_83
+    400334: character_human_male_humanmale_bone_84
+    400336: character_human_male_humanmale_bone_85
+    400338: character_human_male_humanmale_bone_86
+    400340: character_human_male_humanmale_bone_87
+    400342: character_human_male_humanmale_bone_88
+    400344: character_human_male_humanmale_bone_89
+    400346: character_human_male_humanmale_bone_9
+    400348: character_human_male_humanmale_bone_90
+    400350: character_human_male_humanmale_bone_91
+    400352: character_human_male_humanmale_bone_92
+    400354: character_human_male_humanmale_bone_93
+    400356: character_human_male_humanmale_bone_94
+    400358: character_human_male_humanmale_bone_95
+    400360: character_human_male_humanmale_bone_96
+    400362: character_human_male_humanmale_bone_97
+    400364: character_human_male_humanmale_bone_98
+    400366: character_human_male_humanmale_bone_99
+    400368: character_human_male_humanmale_rig
+    400370: character_human_male_humanmale_rig_001
+    400372: //RootNode
+    7400000: Default Take
     7400002: character_human_male_humanmale_bone_0_Death__8__Death__8_
+    7400004: character_human_male_humanmale_bone_0_Stand__0__Stand__0_
     9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -367,55 +394,12 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
-      copied configuration does not match position in animation file:\n\t'character_human_male_humanmale_bone_6'
-      : position error = 1168.059937 mm\n\t'character_human_male_humanmale_bone_3'
-      : position error = 1952.456299 mm\n\t'character_human_male_humanmale_bone_8'
-      : position error = 2149.249512 mm\n\t'character_human_male_humanmale_bone_15'
-      : position error = 2221.279297 mm\n\t'character_human_male_humanmale_bone_22'
-      : position error = 430.419556 mm\n\t'character_human_male_humanmale_bone_36'
-      : position error = 436.507599 mm\n\t'character_human_male_humanmale_bone_46'
-      : position error = 154.293381 mm\n\t'character_human_male_humanmale_bone_49'
-      : position error = 154.288559 mm\n"
+    rigImportErrors: "Copied Avatar Rig Configuration mis-match. Transform hierarchy
+      does not match:\n\tTransform 'character_human_male_humanmale_rig_001' not found
+      in HumanDescription.\n"
+    rigImportWarnings: 
     animationImportErrors: 
-    animationImportWarnings: "\nClip 'Default Take' has import animation warnings
-      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
-      to improve retargeting quality.\n\t'character_human_male_humanmale_bone_2' has
-      translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_2'
-      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_5'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_6'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_12'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_18'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_3'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_8'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_15'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_34'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_42'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_22'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_28'
-      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_36'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_46'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_49'
-      has translation animation that will be discarded.\n\nClip 'character_human_male_humanmale_bone_0_Death__8__Death__8_'
-      has import animation warnings that might lower retargeting quality:\nNote: Activate
-      translation DOF on avatar to improve retargeting quality.\n\t'character_human_male_humanmale_bone_2'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_2'
-      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_5'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_6'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_12'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_18'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_3'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_8'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_15'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_34'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_42'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_22'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_28'
-      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_36'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_46'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_49'
-      has translation animation that will be discarded.\n"
+    animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
@@ -427,63 +411,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations:
-    - serializedVersion: 16
-      name: Die
-      takeName: Default Take
-      firstFrame: 0
-      lastFrame: 55
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 0
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 1
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
-    - serializedVersion: 16
-      name: character_human_male_humanmale_bone_0_Death__8__Death__8_
-      takeName: character_human_male_humanmale_bone_0_Death__8__Death__8_
-      firstFrame: 0
-      lastFrame: 54
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []

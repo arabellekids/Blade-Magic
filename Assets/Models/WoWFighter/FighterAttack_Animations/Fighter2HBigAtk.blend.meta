@@ -351,7 +351,7 @@ ModelImporter:
     400342: character_human_male_humanmale_bone_99
     400344: //RootNode
     400346: character_human_male_humanmale_rig
-    7400000: Default Take
+    7400000: JumpAttack2H
     7400002: character_human_male_humanmale_bone_0_CombatAbility2HBig01__239
     9500000: //RootNode
     2186277476908879412: ImportLogs
@@ -496,7 +496,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Default Take
+      name: JumpAttack2H
       takeName: Default Take
       firstFrame: 0
       lastFrame: 23
@@ -541,7 +541,7 @@ ModelImporter:
       loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
+      keepOriginalPositionXZ: 1
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000

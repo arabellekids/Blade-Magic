@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5565fb9bc5eb6a248b392ba411e5d16a
+guid: 858c9586a64b7954aadb523ec52ed1d8
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -351,13 +351,13 @@ ModelImporter:
     400342: character_human_male_humanmale_bone_99
     400344: //RootNode
     400346: character_human_male_humanmale_rig
-    7400000: Die
-    7400002: character_human_male_humanmale_bone_0_Death__8__Death__8_
+    7400000: Default Take
+    7400002: Ready2H
     9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -370,51 +370,61 @@ ModelImporter:
     rigImportErrors: 
     rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
       copied configuration does not match position in animation file:\n\t'character_human_male_humanmale_bone_6'
-      : position error = 1168.059937 mm\n\t'character_human_male_humanmale_bone_3'
-      : position error = 1952.456299 mm\n\t'character_human_male_humanmale_bone_8'
-      : position error = 2149.249512 mm\n\t'character_human_male_humanmale_bone_15'
-      : position error = 2221.279297 mm\n\t'character_human_male_humanmale_bone_22'
-      : position error = 430.419556 mm\n\t'character_human_male_humanmale_bone_36'
-      : position error = 436.507599 mm\n\t'character_human_male_humanmale_bone_46'
-      : position error = 154.293381 mm\n\t'character_human_male_humanmale_bone_49'
-      : position error = 154.288559 mm\n"
+      : position error = 1144.514771 mm\n\t'character_human_male_humanmale_bone_12'
+      : position error = 708.488647 mm\n\t'character_human_male_humanmale_bone_18'
+      : position error = 171.758728 mm\n\t'character_human_male_humanmale_bone_3'
+      : position error = 2842.261963 mm\n\t'character_human_male_humanmale_bone_8'
+      : position error = 2804.202393 mm\n\t'character_human_male_humanmale_bone_15'
+      : position error = 2737.014160 mm\n\t'character_human_male_humanmale_bone_61'
+      : position error = 453.803009 mm\n\t'character_human_male_humanmale_bone_63'
+      : position error = 201.886658 mm\n\t'character_human_male_humanmale_bone_64'
+      : position error = 129.782578 mm\n\t'character_human_male_humanmale_bone_27'
+      : position error = 2709.300537 mm\n\t'character_human_male_humanmale_bone_34'
+      : position error = 530.978516 mm\n\t'character_human_male_humanmale_bone_42'
+      : position error = 324.709747 mm\n\t'character_human_male_humanmale_bone_67'
+      : position error = 129.876633 mm\n\t'character_human_male_humanmale_bone_70'
+      : position error = 201.941528 mm\n\t'character_human_male_humanmale_bone_71'
+      : position error = 453.873047 mm\n\t'character_human_male_humanmale_bone_22'
+      : position error = 586.037598 mm\n\t'character_human_male_humanmale_bone_36'
+      : position error = 554.263916 mm\n\t'character_human_male_humanmale_bone_46'
+      : position error = 169.885223 mm\n\t'character_human_male_humanmale_bone_49'
+      : position error = 169.930283 mm\n\t'character_human_male_humanmale_bone_55'
+      : position error = 22.376980 mm\n"
     animationImportErrors: 
     animationImportWarnings: "\nClip 'Default Take' has import animation warnings
       that might lower retargeting quality:\nNote: Activate translation DOF on avatar
-      to improve retargeting quality.\n\t'character_human_male_humanmale_bone_2' has
-      translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_2'
-      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_5'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_6'
+      to improve retargeting quality.\n\t'character_human_male_humanmale_bone_2' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_5'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_11'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_12'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_18'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_3'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_8'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_15'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_27'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_34'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_42'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_22'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_28'
-      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_36'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_36'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_46'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_49'
-      has translation animation that will be discarded.\n\nClip 'character_human_male_humanmale_bone_0_Death__8__Death__8_'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_55'
+      has translation animation that will be discarded.\n\nClip 'character_human_male_humanmale_bone_0_Ready2H__5__Ready2H__5_'
       has import animation warnings that might lower retargeting quality:\nNote: Activate
       translation DOF on avatar to improve retargeting quality.\n\t'character_human_male_humanmale_bone_2'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_2'
       is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_5'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_6'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_11'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_12'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_18'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_3'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_8'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_15'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_27'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_34'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_42'
-      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_22'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_28'
-      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_human_male_humanmale_bone_36'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_36'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_46'
       has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_49'
+      has translation animation that will be discarded.\n\t'character_human_male_humanmale_bone_55'
       has translation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
@@ -429,38 +439,10 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Die
+      name: Default Take
       takeName: Default Take
       firstFrame: 0
-      lastFrame: 55
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 0
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 1
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
-    - serializedVersion: 16
-      name: character_human_male_humanmale_bone_0_Death__8__Death__8_
-      takeName: character_human_male_humanmale_bone_0_Death__8__Death__8_
-      firstFrame: 0
-      lastFrame: 54
+      lastFrame: 33
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -472,6 +454,34 @@ ModelImporter:
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ready2H
+      takeName: character_human_male_humanmale_bone_0_Ready2H__5__Ready2H__5_
+      firstFrame: 0
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
