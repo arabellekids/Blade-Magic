@@ -11,7 +11,9 @@ public class PlayerMotor : MonoBehaviour {
 
     public Interactable focus;
     public bool hasInteracted = false;
+    public LayerMask moveMask;
 
+    public GameObject ui;
     // Use this for initialization
 	void Start () {
         agent = GetComponent<NavMeshAgent>();
@@ -39,7 +41,7 @@ public class PlayerMotor : MonoBehaviour {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
             RaycastHit hitInfo;
-            if (Physics.Raycast(ray, out hitInfo))
+            if (Physics.Raycast(ray, out hitInfo, (int)Camera.main.farClipPlane) &&  ui.activeInHierarchy== false)
             {
                 Defocus();
                 agent.SetDestination(hitInfo.point);

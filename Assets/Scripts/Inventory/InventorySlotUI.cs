@@ -18,4 +18,9 @@ public class InventorySlotUI : MonoBehaviour
         item = null;
         itemText.text = "";
     }
+
+    public void UseItem()
+    {
+        item.Use();
+    }
 }

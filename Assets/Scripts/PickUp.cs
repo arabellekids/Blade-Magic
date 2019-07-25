@@ -14,7 +14,6 @@ public class PickUp : Interactable {
         if (result)
         {
             Debug.Log("Picking up item " + item.name);
-
             // put the item in the inventory
             Destroy(gameObject);
         }

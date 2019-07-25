@@ -24,6 +24,8 @@ public class InventoryManager : MonoBehaviour {
     }
     #endregion
 
+    public GameObject inventoryCanvas;
+    public AudioSource inventorySound;
     public int capacity = 20;
     public List<Item> items = new List<Item>();
 
@@ -31,7 +33,8 @@ public class InventoryManager : MonoBehaviour {
     {
         if (Input.GetKeyDown(KeyCode.I))
         {
-
+            inventoryCanvas.SetActive(!inventoryCanvas.activeInHierarchy);
+            inventorySound.Play();
         }
     }
     public bool AddItem(Item item)
